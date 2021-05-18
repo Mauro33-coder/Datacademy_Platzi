@@ -20,11 +20,10 @@ if __name__=="__main__":
     run()
 
 
-    
+
 # Dejo estas líneas con el propósito de que tu lo continues si tienes alguna idea fantástica que 
 # Si es así no dudes en hacerlo por favor. Nuestra comunidad es grande por sus ideas y colaboración 😉
-    
-    
+
 #     Menu= """ 
 
 # Según los datos que ingresaste averiguemos juntos que tipo de triángulo es
