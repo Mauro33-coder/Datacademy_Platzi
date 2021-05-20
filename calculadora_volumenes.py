@@ -1,11 +1,11 @@
 def menu():
-    resp="s"
-    round = 2
-    cal=[]
-    
-    while resp=="s" or resp=="S":
-    
-        opcion=0
+        resp="s"
+        num=0
+        cal=[]
+
+        while resp=="s" or resp=="S":
+
+                opcion=0
         print("(1) Calcular volumen de un cilíndro: ")
         print("(2) Calcular volumen de un esfera: ")
         print("(3) Calcular volumen de un cono: ")
